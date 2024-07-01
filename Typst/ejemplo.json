@@ -1,0 +1,20 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Alice",
+        "edad": 30,
+        "ciudad": "Nueva York"
+      },
+      {
+        "nombre": "Bob",
+        "edad": 25,
+        "ciudad": "Los Ángeles"
+      },
+      {
+        "nombre": "Charlie",
+        "edad": 35,
+        "ciudad": "Chicago"
+      }
+    ]
+  }
+  
